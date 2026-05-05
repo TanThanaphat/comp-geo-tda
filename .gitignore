@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.agents/
+.claude/
+skills-lock.json
+assignment_text.txt
+testrun.log
+tda_assignment.pdf

@@ -1,0 +1,9 @@
+name,seconds,pass
+TC1: Noisy circle,0.108,True
+TC2: Annulus,0.147,True
+TC3: Sphere,7.652,True
+TC4: Torus,0.303,True
+TC5: Closed cube mesh,1.031,True
+TC6: Circle image,0.678,True
+
+bottleneck H1(circle vs annulus): 0.7617
